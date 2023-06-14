@@ -15,5 +15,4 @@ for (let i = 0; i < numbers.length; i++) {
     <p>${numbers[i]} X 10 = ${numbers[i] * 10}</p>
     <hr>
     `
-    
 }
